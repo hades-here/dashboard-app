@@ -1,0 +1,101 @@
+.addVideo {
+    display: flex;
+    margin-top: 100px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    width: 991px;
+    height: 653px;
+    margin-left: 204px;
+    margin-top: 81px;
+    background-color: #fff;
+    position: relative;
+    left: 200px;
+    top: 0px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .addVideoForm h1 {
+  position: relative;
+  bottom:30px;
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  
+  .addVideoForm{
+    width: 45%;
+    position: relative;
+    right: 10px;
+    bottom: 30px;
+  }
+  
+  
+  .addVideoForm form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  
+  
+  .addVideoForm input {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    ;
+    margin-bottom: 20px;
+    font-size: 1rem;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .addVideoForm button {
+    width: 50%;
+    height: 40px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: #00aef9;
+    color: #fbfbfb;
+  }
+
+  .addVideoForm button:hover {
+    background-color: #000;
+    color: #fff;
+    border: 2px solid #000;
+  } 
+  
+  /* .addVideoForm button:hover{
+    background-color: #fbfbfb;
+    color: #f90000;
+    border: 1px solid #f90000;
+  } */
+  
+  
+  
+  
+  
+  .addVideoImage img {
+    margin-left: 20px;
+    width: 480px;
+    height: 600px;
+    object-fit: cover;
+    border-radius: 10px;
+    position: relative;
+    left: 30px;
+    bottom: 30px;
+  }
+  

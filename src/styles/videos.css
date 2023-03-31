@@ -1,0 +1,120 @@
+.videos {
+    background-color: #f0eded;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 75px;
+  margin-left: 148px;
+  cursor: pointer;
+  
+}
+
+.videos .video_list:hover {
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+  transform: scale(1.05);
+}
+
+.video_list {
+  width: 360px;
+  height: 350px;
+  margin-left: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+}
+.video_list img {
+  width: 100%;
+  height: 200px;
+  border-radius: 0px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.video_list p {
+  display: flex;
+  align-items: center;
+  
+  
+  font-size: 1rem;
+  font-weight: 200;
+  color: #000;
+
+}
+
+#last{
+  position: relative;
+  top: 5px;
+  left: 20px;
+}
+
+.video_list .title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0px;
+  position: relative;
+  left: 20px;
+  top: 10px;
+}
+
+.videos .video_list button {
+  margin-top: 0px;
+  padding: 5px 10px;
+ border: none;
+background-color: rgba(33, 33, 33, 0.619);
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 200;
+  cursor: pointer;
+  position: relative;
+  left: 253px;
+  bottom: 360px;
+  margin: 0px;
+}
+.types{
+  display: flex;
+  justify-content: space-around;
+  width: 45%;
+  height: 15%;
+  position: relative;
+  left: 5px;
+  bottom: 10px;
+  
+}
+#cat{
+  color: #000;
+  background-color: rgb(208, 207, 207);
+  border-radius: 12px;
+  
+
+  
+}
+
+#typ{
+  color: #000;
+  background-color: rgb(208, 207, 207);
+  border-radius: 8px;
+
+  
+}
+
+.types1{
+  position: relative;
+ left: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 65%;
+  height: 8%;
+  
+}
+
+.types1 img{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  
+  cursor: pointer;
+}

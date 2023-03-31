@@ -1,0 +1,109 @@
+{
+  "videodata": [
+    {
+      "id": 1,
+      "thumbnail": "https://i.ytimg.com/vi/hexfXc7-SsU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCk3K2H_cRdKz6JGCBTcuTeJODWNw",
+      "title": "XYZ",
+      "Last_updated": "4/08/22",
+      "Lessons": 1,
+      "Minutes": 13,
+      "Type": "sales",
+      "Type2": "Marketing",
+      "categories": "DRAFT"
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://i.ytimg.com/vi/xZv67O0kMcc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKeCoZH6bJWm1ZZgEB44zn1ktaZQ",
+      "title": "Sales vs marketing",
+      "Last_updated": "4/08/22",
+      "Lessons": 3,
+      "Minutes": 25,
+      "Type": "sales",
+      "categories": "ARCHIVED"
+    },
+    {
+      "id": 3,
+      "thumbnail": "https://i.ytimg.com/vi/haCIPCfgT30/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeFNXmuKnK-02tz0h3MXdhrOI3jg",
+      "title": "How to unclog a sink",
+      "Last_updated": "4/08/22",
+      "Lessons": 6,
+      "Minutes": 15,
+      "Type": "Marketing",
+      "categories": "LIVE"
+    },
+    {
+      "id": 4,
+      "thumbnail": "https://i.ytimg.com/vi/aN-Jzn89n9s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1_sJm5QlmNk2WhtlapC340skf1Q",
+      "title": " How Google Analytics ruined Marketing",
+      "Last_updated": " 4/08/22",
+      "Lessons": 5,
+      "Minutes": 25,
+      "Type": "sales",
+      "categories": "LIVE"
+    },
+    {
+      "id": 5,
+      "thumbnail": "https://i.ytimg.com/vi/jBrlCZGHWXM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtDCduZDkBsWpFZzu2OwMju6JEEw",
+      "title": "Top tricks to Bargaining",
+      "Last_updated": "4/08/22",
+      "Lessons": 2,
+      "Minutes": 13,
+      "Type": "sales",
+      "categories": "LIVE"
+    },
+    {
+      "id": 6,
+      "thumbnail": "https://i.ytimg.com/vi/jsCArj-z22E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALc7xLVMkmdxJXnu3h8o072uCHSg",
+      "title": "Compliance",
+      "Last_updated": "4/08/22",
+      "Lessons": 3,
+      "Minutes": 11,
+      "Type": "sales",
+      "Type2": "Marketing",
+      "categories": "LIVE"
+    },
+    {
+      "thumbnail": "https://i.ytimg.com/vi/1kggJMwt1dY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_N96qEtLzSuhDu30WjNOmcNg1-g",
+      "title": "How I Learnt DSA and Got Into Amazon",
+      "Last_updated": "",
+      "Lessons": "2",
+      "Minutes": "21",
+      "categories": "DRAFT",
+      "Type": "coding",
+      "id": 7
+    },
+    {
+      "thumbnail": "https://i.ytimg.com/vi/1kggJMwt1dY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_N96qEtLzSuhDu30WjNOmcNg1-g",
+      "title": "How I Learnt DSA and Got Into Amazon",
+      "Last_updated": "",
+      "Lessons": "2",
+      "Minutes": "21",
+      "categories": "ARCHIVED",
+      "Type": "coding",
+      "id": 8
+    },
+
+    {
+      "thumbnail": "https://i.ytimg.com/vi/1kggJMwt1dY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_N96qEtLzSuhDu30WjNOmcNg1-g",
+      "title": "How I Learnt DSA and Got Into Amazon",
+      "Last_updated": "",
+      "Lessons": "2",
+      "Minutes": "21",
+      "categories": "ARCHIVED",
+      "Type": "coding",
+      "id": 9
+    },
+
+    {
+      "thumbnail": "https://i.ytimg.com/vi/1kggJMwt1dY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_N96qEtLzSuhDu30WjNOmcNg1-g",
+      "title": "How I Learnt DSA and Got Into Amazon",
+      "Last_updated": "",
+      "Lessons": "2",
+      "Minutes": "21",
+      "categories": "ARCHIVED",
+      "Type": "coding",
+      "id": 10
+    }
+  
+  ]
+}
